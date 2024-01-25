@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#app {
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+input {
+    width: 70%;
+    padding: 8px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 8px 12px;
+    margin: 5px 0;
+    border: none;
+    cursor: pointer;
+}
+
+p {
+    margin: 10px 0;
+}
